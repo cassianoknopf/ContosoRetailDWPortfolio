@@ -14,7 +14,7 @@ SELECT TOP 10 * FROM DimChannel
 --ChannelKey
 --ChannelName
 
---início da montagem da query com a resposta
+--Início da montagem da query com a resposta
 
 SELECT TOP 10 *
 FROM FactSales S
